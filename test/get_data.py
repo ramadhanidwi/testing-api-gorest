@@ -9,7 +9,7 @@ api_token = os.getenv("API_TOKEN")
 # id_int = int(id)
 
 # URL API yang ingin diakses
-url = "https://gorest.co.in/public/v2/users/8014332"
+url = "https://gorest.co.in/public/v2/users/8021535"
 headers = {
     "Authorization": f"Bearer {api_token}"
 }

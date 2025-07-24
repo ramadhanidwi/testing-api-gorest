@@ -15,8 +15,8 @@ headers = {
 
 # Data pengguna yang akan dibuat
 user_data =   {
-    "name": "Prof. Mahfud JB",
-    "email": "profmahfud_jb@gmail.example",
+    "name": "Ramadhani Nugroho",
+    "email": "ramadhani_nugroho@gmail.example",
     "gender": "male",
     "status": "active"
   }
